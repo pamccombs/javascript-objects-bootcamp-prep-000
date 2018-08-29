@@ -3,6 +3,8 @@ var playlist = {
 }
 end
 
-function updatePlaylist
+function updatePlaylist{
+  
+}
 
 end
