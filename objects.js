@@ -2,6 +2,6 @@ var playlist = {
   Jeezy: 'Go Crazy'
 }
 
-function updatePlaylist(){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
