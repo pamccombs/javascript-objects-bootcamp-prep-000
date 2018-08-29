@@ -1,2 +1,4 @@
-var playlist
+var playlist = {
+
+}
 end
